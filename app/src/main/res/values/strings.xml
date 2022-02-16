@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="action_open">Відкрити</string>
+    <string name="action_save">Зберегти</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="pref_openmode">Режим відкриття</string>
+    <string name="pref_color">Колір</string>
+    <string name="pref_color_black">Чорний колір</string>
+    <string name="pref_color_red">Червоний колір</string>
+    <string name="pref_color_green">Зелений колір</string>
+    <string name="pref_color_blue">Синій колір</string>
+    <string name="pref_size">Розмір</string>
+    <string name="pref_style">Стиль</string>
+    <string name="pref_style_regular">Нормальний</string>
+    <string name="pref_style_bold">Напівжирний</string>
+    <string name="pref_style_italic">Курсив</string>
+</resources>
